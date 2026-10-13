@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "India IPO GMP Accuracy: grey market premium vs actual listing"
+abstract: "Grey market premium (GMP) of Indian mainboard IPOs recorded during the bidding window, before listing, compared with the actual listing-day result. Updated as each IPO lists."
+authors:
+  - name: "PaisaTools"
+    website: "https://paisatools.co.in"
+repository-code: "https://github.com/nils44344/india-ipo-gmp-accuracy"
+url: "https://paisatools.co.in/ipo/gmp-accuracy"
+license: CC-BY-4.0
+keywords: [IPO, grey market premium, GMP, India, NSE, listing gains]
+date-released: 2026-10-13

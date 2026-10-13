@@ -1,5 +1,8 @@
 # India IPO GMP vs actual listing: an open track record
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349741.svg)](https://doi.org/10.5281/zenodo.23349741)
+
+
 How well does the grey market premium (GMP) predict an Indian IPO's listing? This dataset records the GMP of every mainboard IPO **before it listed** and compares it with the **actual listing-day result**. No values are back-filled.
 
 **Live, auto-updating version:** https://paisatools.co.in/ipo/gmp-accuracy
@@ -53,3 +56,7 @@ To refresh it: `python scripts/refresh.py` (standard library only).
 ## Licence
 
 The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use it freely, including commercially, with attribution to PaisaTools and a link to https://paisatools.co.in/ipo/gmp-accuracy. The script in `scripts/` is MIT-licensed.
+
+
+## Cite
+PaisaTools (2026). DOI: [10.5281/zenodo.23349741](https://doi.org/10.5281/zenodo.23349741)

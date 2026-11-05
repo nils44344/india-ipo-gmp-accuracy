@@ -60,3 +60,6 @@ The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4
 
 ## Cite
 PaisaTools (paisatools.co.in) (2026). DOI: [10.5281/zenodo.23349741](https://doi.org/10.5281/zenodo.23349741)
+
+## Also by PaisaTools
+Book: *Paisa Aur Mann: Money Psychology for Salaried India*. Every chapter is free to read at [paisatools.co.in/library](https://paisatools.co.in/library) (English and Hindi); the full edition is on [Amazon Kindle](https://www.amazon.in/dp/B0HQGMZ5XZ).

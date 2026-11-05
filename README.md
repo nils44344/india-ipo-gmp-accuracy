@@ -59,4 +59,4 @@ The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4
 
 
 ## Cite
-PaisaTools (2026). DOI: [10.5281/zenodo.23349741](https://doi.org/10.5281/zenodo.23349741)
+PaisaTools (paisatools.co.in) (2026). DOI: [10.5281/zenodo.23349741](https://doi.org/10.5281/zenodo.23349741)
